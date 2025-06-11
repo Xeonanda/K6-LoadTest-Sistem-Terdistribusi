@@ -12,7 +12,7 @@ K6
 ### File
 - 10kb.txt
 - 100kb.txt
-- 1mb.txt
+- 1000kb.txt
 
 ### Skenario Test
 Durasi: 1 detik
